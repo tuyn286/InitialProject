@@ -1,4 +1,5 @@
 Feature: Policy management
+  @now
   Scenario Outline: Verify user can search policy by exactly input
     Given user open app successfully
     When user perform search functionality with input "<search>"
