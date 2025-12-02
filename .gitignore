@@ -38,7 +38,8 @@ build/
 .DS_Store
 
 .idea/
-        log/
-        logs/
-        report/
-        src/main/resources/screenshots
+log/
+logs/
+report/
+src/main/resources/screenshots
+src/main/resources/testdata/DemoWebShop.xlsx
